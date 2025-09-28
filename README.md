@@ -1,4 +1,5 @@
-# NewsMonkey
+# NewsLite
+Lite news, Big impact
 
 ## Objective
 
